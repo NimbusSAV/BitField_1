@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a76282b3-4276-4945-9af2-3ac68111a828": {
+      "ProjectGuid": "a76282b3-4276-4945-9af2-3ac68111a828",
+      "DisplayName": "bitfield",
+      "ColorIndex": 0
+    },
+    "60932afc-7808-48b7-b3bf-f2bc151c0065": {
+      "ProjectGuid": "60932afc-7808-48b7-b3bf-f2bc151c0065",
+      "DisplayName": "gtest",
+      "ColorIndex": 1
+    },
+    "c650c93e-f0a7-4235-9f5f-0dce78609bfb": {
+      "ProjectGuid": "c650c93e-f0a7-4235-9f5f-0dce78609bfb",
+      "DisplayName": "test_bitfield",
+      "ColorIndex": 2
+    },
+    "5d0218f2-e502-414f-ba66-9e76b2785178": {
+      "ProjectGuid": "5d0218f2-e502-414f-ba66-9e76b2785178",
+      "DisplayName": "sample_prime_numbers",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
